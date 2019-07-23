@@ -1,0 +1,1 @@
+Select p.name, c.name as category from products lef join  categories on products.category_id = categories.category_id
